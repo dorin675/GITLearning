@@ -1,2 +1,3 @@
 const a: number = 5;
-console.log(n);
+console.log(a);
+console.log(a);
